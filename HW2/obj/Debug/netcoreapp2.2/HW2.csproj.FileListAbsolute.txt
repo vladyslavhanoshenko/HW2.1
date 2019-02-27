@@ -1,0 +1,11 @@
+/Users/vlad/Documents/C#/HW2/bin/Debug/netcoreapp2.2/HW2.deps.json
+/Users/vlad/Documents/C#/HW2/bin/Debug/netcoreapp2.2/HW2.runtimeconfig.json
+/Users/vlad/Documents/C#/HW2/bin/Debug/netcoreapp2.2/HW2.runtimeconfig.dev.json
+/Users/vlad/Documents/C#/HW2/bin/Debug/netcoreapp2.2/HW2.dll
+/Users/vlad/Documents/C#/HW2/bin/Debug/netcoreapp2.2/HW2.pdb
+/Users/vlad/Documents/C#/HW2/obj/Debug/netcoreapp2.2/HW2.csprojAssemblyReference.cache
+/Users/vlad/Documents/C#/HW2/obj/Debug/netcoreapp2.2/HW2.csproj.CoreCompileInputs.cache
+/Users/vlad/Documents/C#/HW2/obj/Debug/netcoreapp2.2/HW2.AssemblyInfoInputs.cache
+/Users/vlad/Documents/C#/HW2/obj/Debug/netcoreapp2.2/HW2.AssemblyInfo.cs
+/Users/vlad/Documents/C#/HW2/obj/Debug/netcoreapp2.2/HW2.dll
+/Users/vlad/Documents/C#/HW2/obj/Debug/netcoreapp2.2/HW2.pdb
